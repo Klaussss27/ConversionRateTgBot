@@ -5,7 +5,7 @@ import requests
 
 
 
-bot = telebot.TeleBot('6510267027:AAHRlnnMliaTfeHmjuMAd2AYQMpuKeSp7HU')
+bot = telebot.TeleBot('My_TG_Api')
 amount = 0
 currency = CurrencyConverter()
 
